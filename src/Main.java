@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+//        Провел повторное изучение материала и выполнил все уровни сложности курсовой работы
 
         Employee employee = new Employee("Потапов Евгений Анатольевич", 1, 5000);
         Employee employee1 = new Employee("Арсеньев Дмитрий Александрович", 2, 150000);
